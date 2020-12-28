@@ -1,0 +1,17 @@
+{
+  "name": "mkrc",
+  "version": "1.0.0",
+  "description": "Make react component. Create a react component from the command line. Supports straightforward configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ava"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "build",
+    "cli"
+  ],
+  "author": "NiallJP",
+  "license": "ISC"
+}
